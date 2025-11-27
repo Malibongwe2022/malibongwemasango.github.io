@@ -3,8 +3,7 @@ tagline: "Turning Data into Insight—One Project at a Time"
 description: "Data Science Portfolio"
 theme: jekyll-theme-minimal
 show_downloads: true
-<img src="assets/KM_Masango_pic.jpg" alt="Malibongwe Masango" width="180" style="border-radius: 50%;">
-
+logo: /assets/KM_Masango_pic.jpeg
 
 
 

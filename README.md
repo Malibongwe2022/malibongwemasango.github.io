@@ -1,4 +1,3 @@
-# Malibongwe Masango  
 
 Welcome to the data science portfolio of Malibongwe Masango—an aspiring data scientist passionate about transforming data into meaningful insights. This portfolio showcases a collection of projects and practical work completed throughout my data science journey, demonstrating my skills in Python, SQL, Power BI, Excel, data analysis, and data visualization. Each project reflects real-world problem-solving, from exploring complex datasets to building models and generating actionable insights. This space highlights my growth, continuous learning, and readiness to contribute to data-driven decision-making in a professional environment.
 
